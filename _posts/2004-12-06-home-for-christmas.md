@@ -1,0 +1,25 @@
+---
+id: 30
+title: Home for Christmas
+date: 2004-12-06T18:09:00+00:00
+author: james.crowley
+layout: post
+guid: /james_crowley/archive/2004/12/06/275778.aspx
+permalink: /2004/12/06/home-for-christmas/
+sfw_comment_form_password:
+  - FjbMojn8XuMo
+categories:
+  - Developer Community
+  - Personal
+---
+I&#8217;m back home for Christmas now (yes, I know &#8211; its barely december&#8230; what can I say&#8230;?), so I thought I&#8217;d finally update my various blogs! It&#8217;s been a busy past few months&#8230;
+
+In mid-October, I attended the first Microsoft &#8220;Connect&#8221; event held in Barcelona. The idea behind this was to bring together community leaders from around Europe &#8211; along with Microsoft &#8211; to discuss what Microsoft can do to help the communities, and to promote their new Codezone initiative. Around 80 people attended, half of which were community leaders. It was a great few days, with some very interesting debates sparking off. The weather was gorgeous too &#8211; I took the opportunity to stay on for a few days to see the sights &#8211; though had to downgrade from the hotel Microsoft put us up in to a somewhat less classy hostel!
+
+Next up (literally 2 days after getting back from Barcelona) was the first Microsoft Student Partner meeting of the 04/05. For those of you unfamiliar with the programme – it basically targets the most enthusiastic students around the UK taking Computer-related degrees, and encourages them to promote Microsoft initiatives such as the [Imagine Cup](http://www.microsoft.com/uk/academia/imaginecup/) and [MSDN AA](http://www.microsoft.com/uk/academia/msdnaa/) – with a few goodies such as a years MSDN Universal subscription to help them on their way! The first day included some team building exercises to break the ice – these actually worked very well, despite my initial scepticism – plus an evening out in Reading (with an almost-open bar). Unfortunately I had to miss the second day of the more interesting technology stuff, but it was great fun – thanks to everyone in the Academic team for a great day!
+
+Towards the end of November we had the third community leaders meeting in the UK. The meeting in Barcelona really made me appreciate how ahead of the game the UK DPE team are – so thanks go out to them once again! During the day we were updated as to what the other community leaders in the UK have been up to – and what Microsoft has been up to on our behalf. We also had a 30 minute slot with Alistair Baker – MD of Microsoft UK, and a marketing session discussing how to write “copy&#8217; that had been requested at earlier meetings. There were also further discussions as to what exactly Codezone should be – especially in the UK where the language issue simply doesn’t apply, given our easy access to a wealth of material in the states.
+
+The following week I headed off to Copenhagen to discuss just that,with a smaller group of community “influencers&#8217; around Europe,and a collection of Microsoft people, including the Codezone program manager Doug Seven (of dotnetjunkies and sqljunkies). It’s been great that Microsoft are actually bothering to ask the community how best they can support us – rather than assuming whatever they do is good for everyone! During the meeting we bashed out the various issues of how to make sure Codezone supports the existing communities as best as possible, without competing – how best to support federating content on the site, what features the codezone platform should offer to third party sites, how offline events can be promoted, and whether the site should be used to track things such as individual’s contributions to the community. As soon as I’ve got a proper summary of everything discussed, I’ll post it here! Also, keep an eye on [Doug&#8217;s blog](http://dotnetjunkies.com/WebLog/dougseven/).
+
+So, time for a bit of relaxation now! I’m also starting to vaguely plan a 6 month trip around the world – but sadly not until early 2006! I figured after exams every summer for the last 7 years, I’ll deserve a break!
