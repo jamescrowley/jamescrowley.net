@@ -5,14 +5,6 @@ date: 2011-04-27T09:57:46+00:00
 author: james.crowley
 layout: page
 guid: http://www.jamescrowley.co.uk/?page_id=4
-sfw_comment_form_password:
-  - FvTxYJd9lCUB
-ampforwp-amp-on-off:
-  - default
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
 ---
 _Since_ _leaving my full-time role at FundApps I&#8217;m now on sabbatical and slowly figuring out how to do some more good with technology._
 
@@ -42,7 +34,7 @@ Founded the [largest UK-based developer site](http://www.developerfusion.com/) w
   * Technical writing, editing and reviewing of content, and presentations at several developer events.
   * Establishing strategic partnerships across the developer community in the UK, including Microsoft and Adobe.
 
-**Head of Development, Anorak Digital** **  
+**Head of Development, Anorak Digital**
 _Dec 2006 to July 2008_** _(now part of_ [_glue Isobar_](http://www.gluelondon.com/)_)_
 
   * Established a successful technical team working with blue-chip clients to deliver consumer and b2b websites to tight deadlines and a consistently high technical standard.
@@ -51,7 +43,7 @@ _Dec 2006 to July 2008_** _(now part of_ [_glue Isobar_](http://www.gluelondon.c
   * Created web service platform and central library to reduce lead-time and costs for projects, including full-text site searches, user registration, 3<sup>rd</sup> party integrations and automated deployment.
   * Researched and drove the use of new technologies and standards both internally and with our clients
 
-**Self Employed  
+**Self Employed
 ** **_1999 to 2005_**_ (during A-Levels and University)_
 
 Delivered solutions for a range of clients,
@@ -105,8 +97,7 @@ _August 14, 2005 &#8211; Graham Parker, Chairman, VBUG_
 
 “James is one of the most articulate, technically savvy and passionate people I have worked with. His approach to development and architecture is second to none, consistently demonstrating a deep understanding of concepts, and he has an admirable pragmatic and collaborative approach when it comes to leading development teams and/or mentoring other developers. His has a never ending entrepreneurial spirit and drive and a great technically focused strategic approach to his work. I highly recommend James.”
 
-_March 28, 2010 &#8211; David de la Pena, Head of Development, Glue London  
-_ 
+_March 28, 2010 &#8211; David de la Pena, Head of Development, Glue London_ 
 
 “I have worked with James for the last 18 months and can&#8217;t recommend him highly enough. Not only has he provided excellent hands on technical expertise but has added a great deal to the internal running of our agency and helped build solid and long lasting client relationships.”
 
